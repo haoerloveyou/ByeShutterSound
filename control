@@ -1,0 +1,10 @@
+Package: com.cabralcole.byeshuttersound
+Name: ByeShutterSound
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Removes camera shutter sound.
+Maintainer: cabralcole
+Author: cabralcole
+Section: Tweaks
